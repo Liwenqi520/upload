@@ -1,0 +1,4 @@
+github.com/Liwenqi520/unique v0.0.0-20250113075226-4b256d6dc269 h1:OIMF1k+3PUajgBcc8R223qkGbikV6C98bpl0+X2OwwA=
+github.com/Liwenqi520/unique v0.0.0-20250113075226-4b256d6dc269/go.mod h1:EnTjaWzEXMHEHtRdGuTBZdpGJxe8vpLZyd+VVNj5Zf0=
+github.com/bwmarrin/snowflake v0.3.0 h1:xm67bEhkKh6ij1790JB83OujPR5CzNe8QuQqAgISZN0=
+github.com/bwmarrin/snowflake v0.3.0/go.mod h1:NdZxfVWX+oR6y2K0o6qAYv6gIOP9rjG0/E9WsDpxqwE=
